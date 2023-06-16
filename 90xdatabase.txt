@@ -1,0 +1,5 @@
+id,city,state,lat,log
+1,Akron,OH,41.0814,-81.519
+2,Cleveland,OH,41.4993,-81.6944
+3,Erie,PA,42.129223,-80.085060
+4,Buffalo,NY,42.8864,-78.8784
