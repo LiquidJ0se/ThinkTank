@@ -1,0 +1,4 @@
+id,company,lat,log
+1,McDonalds,41.081278,-81.505191
+2,Burger King,42.94212,-78.89377
+3,Taco Bell,42.112377,-80.214388
